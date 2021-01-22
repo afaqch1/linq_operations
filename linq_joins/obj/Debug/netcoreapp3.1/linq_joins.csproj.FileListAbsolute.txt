@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\bin\Debug\netcoreapp3.1\linq_joins.exe
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\bin\Debug\netcoreapp3.1\linq_joins.deps.json
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\bin\Debug\netcoreapp3.1\linq_joins.runtimeconfig.json
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\bin\Debug\netcoreapp3.1\linq_joins.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\bin\Debug\netcoreapp3.1\linq_joins.dll
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\bin\Debug\netcoreapp3.1\linq_joins.pdb
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.dll
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.pdb
+C:\Users\Techverx\source\repos\linq_joins\linq_joins\obj\Debug\netcoreapp3.1\linq_joins.genruntimeconfig.cache
